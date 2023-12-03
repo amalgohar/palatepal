@@ -4,7 +4,7 @@
     {
       "DishName": "Creamy Penne Pasta",
       "DishType": "Italian",
-      "RecipeImage": "penne.jpg",
+      "RecipeImage": "https://raw.githubusercontent.com/amalgohar/palatepal/master/penne.jpg",
       "Ingredients": "8 oz uncooked pasta, 2 tablespoons butter, 2-3 cloves garlic minced, 2 tablespoons tomato paste, 1 (14 ounce) can tomato sauce, 3/4 cup heavy/whipping cream, 1/4 teaspoon Italian seasoning, Freshly grated parmesan cheese for serving, to taste.",
       "RecipeDescription": "Yields 4 servings: In a large pot, boil salted water and cook pasta until al dente. Simultaneously, melt butter in a skillet, sauté garlic, then add tomato paste, tomato sauce, cream, and Italian seasoning. Cook until the sauce thickens, season with salt, pepper, and a pinch of sugar if desired. Toss with cooked pasta and serve with Parmesan cheese.",
       "RecipeVideo": "https://www.youtube.com/watch?v=QdeJ79HMcOQ"
@@ -12,7 +12,7 @@
     {
       "DishName": "Garlic Shrimp Spaghetti",
       "DishType": "Italian",
-      "RecipeImage": "shrimp.jpg",
+      "RecipeImage": "https://raw.githubusercontent.com/amalgohar/palatepal/master/shrimp.jpg",
       "Ingredients": "2 tablespoons olive oil, 1 tsp Cajun seasoning mix, 1 yellow onion cut into 1/2-inch pieces, 4 cloves garlic minced, 1 & 14.5 oz can diced tomatoes, 8 oz spaghetti pasta, ½ lb raw shrimp, peeled, deveined, and tails removed (31-40 ct), ½ cup heavy cream.",
       "RecipeDescription": "Yields 4 servings: Begin by cooking spaghetti until al dente, then drain and set aside. In a skillet, heat olive oil over medium-high heat and add minced garlic, sautéing until fragrant and lightly golden. Next, add the shrimp and cook until pink and are cooked through. To finish, toss cooked spaghetti with garlic shrimp, a drizzle of lemon juice, and a sprinkle of fresh parsley for a burst of flavor.",
       "RecipeVideo": "https://www.youtube.com/watch?v=tUXhYIJPgNY"
@@ -20,7 +20,7 @@
     {
       "DishName": "Beef & Tomato Pizza",
       "DishType": "Italian",
-      "RecipeImage": "pizza.jpg",
+      "RecipeImage": "https://raw.githubusercontent.com/amalgohar/palatepal/master/pizza.jpg",
       "Ingredients": "1 lb dough, 1/2 cup tomato sauce, 1 lb ground beef, 1 cup shredded mozzarella, 1/2 cup sliced tomatoes, 1/4 cup diced onions, 2 garlic cloves minced, 1 tsp dried oregano, Salt and pepper, Fresh basil leaves for garnish.",
       "RecipeDescription": "Yields 4 servings: Preheat oven to 450°F. Roll out dough on floured surface and place on pan. Spread tomato sauce on dough, leaving a border for crust. Brown ground beef, drain, and season with garlic, oregano, salt, and pepper. Sprinkle shredded mozzarella over sauce, add seasoned beef, sliced tomatoes, and diced onions as toppings. Bake for 12-15 min until crust is golden and cheese is bubbly, garnish with fresh basil if desired.",
       "RecipeVideo": "https://www.youtube.com/watch?v=3XzQSzsnjt4"
